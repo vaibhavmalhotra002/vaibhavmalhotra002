@@ -1,17 +1,16 @@
 Hi 👋 My name is Vaibhav Malhotra
 =================================
 
-Web Developer & Devops enthusiast
----------------------------------
+DevOps Engineer & Cloud enthusiast
+----------------------------------
 
 I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. I am highly organized. I always take notes, and I use a series of tools to help myself stay on top. I am an excellent communicator. I pride myself on making sure people have the right information because it drives better results.
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [My webpage](https://vaibhavmalhotra002.github.io/mywebpage/)
 * ✉️  You can contact me at [vaibhavmalhotra002@gmail.com](mailto:vaibhavmalhotra002@gmail.com)
-* 🚀  I'm currently working on [My webpage](https://vaibhavmalhotra002.github.io/mywebpage/)
+* 🚀  I'm currently working on improving my DevOps Skills
 * 🧠  I'm learning Devops and full stack development
-* 🤝  I'm open to collaborating on devops and web dev projects
+* 🤝  I'm open to collaborating on devops projects
 * ⚡  I am a Potterhead and I love travelling
 
 ### Skills
